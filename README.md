@@ -57,7 +57,7 @@ Follow these steps to set up and run "Infera Web UI" on your local machine.
 1.  **Clone the repository** (or download the files) to your local machine:
     * **Important:** Replace `<YOUR_GITHUB_REPO_URL_HERE>` with the actual URL of your GitHub repository.
     ```bash
-    git clone <YOUR_GITHUB_REPO_URL_HERE>
+    git clone <https://github.com/midhT/Infera-webui
     cd my-chatbot-app
     ```
 
